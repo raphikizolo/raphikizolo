@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raphikizolo
-- 👀 I’m interested in building seamlessly working stuff with code.
+- 👀 I’m interested in building cool stuff with code.
 - 🌱 I’m currently learning django and backend python by creating an decorator-powered simple application context like the annotation-based one in spring.
 - 💞️ I’m looking to collaborate on anything written in Java, Kotlin, Python and C#.
 - 📫 How to reach me: raphikizolo on twitter.
