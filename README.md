@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raphikizolo
 - 👀 I’m interested in building cool stuff with code.
-- 🌱 I’m currently learning django and backend python by creating an decorator-powered simple application context like the annotation-based one in spring.
+- 🌱 I’m currently learning python and django while creating a simple decorator-powered application context like the annotation-based one in spring.
 - 💞️ I’m looking to collaborate on anything written in Java, Kotlin, Python and C#.
 - 📫 How to reach me: raphikizolo on twitter.
 - 😄 Pronouns: he/him.
